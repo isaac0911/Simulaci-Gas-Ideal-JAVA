@@ -53,7 +53,7 @@ public class Simulacion extends JPanel {
     private int tiempoMaximo;
 
     // Masa de cada molécula en kg
-    private double masaMolecula = 0.001;
+    private double masaMolecula = 1e-26;
 
     // Constante de Boltzmann en J/K
     private double kBoltzmann = 1.38e-23;
